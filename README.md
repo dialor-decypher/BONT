@@ -4,7 +4,7 @@ fresh is the new black
 
 ## SUBHEADER
 
-black is the new me
+GOD FIRST
 
 ## Local development
 
